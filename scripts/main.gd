@@ -51,7 +51,7 @@ func _unhandled_input(event: InputEvent) -> void:
 			KEY_R:
 				target_hit = false
 				spawn_bud()
-			refresh_hud()
+		refresh_hud()
 
 func _physics_process(_delta: float) -> void:
 	if not is_instance_valid(bud):
