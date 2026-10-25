@@ -1,0 +1,42 @@
+name: MIG-2 Arcade and MadBuds Git History Preservation
+on:
+  push:
+    paths: ['.github/workflows/mig-2-history.yml']
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  preserve:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Preserve scoped Arcade and original Godot commit ancestry
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          python -m pip install --quiet git-filter-repo
+          git clone https://github.com/abvhiael/420-integrated-v0.1.git /tmp/arcade-history
+          git -C /tmp/arcade-history filter-repo --force \
+            --path assets/arcade/ \
+            --path apps/arcade-web/ \
+            --path packages/arcade-assets/ \
+            --path packages/arcade-audio/ \
+            --path packages/arcade-controls/ \
+            --path packages/arcade-core/ \
+            --path packages/arcade-input/ \
+            --path packages/arcade-phaser/ \
+            --path packages/arcade-saves/ \
+            --path packages/arcade-score/ \
+            --path packages/arcade-testing/ \
+            --path packages/mad-buds-kush-krusher/ \
+            --path docs/arcade/ \
+            --path scripts/arcade/
+          test "$(git -C /tmp/arcade-history rev-list --count HEAD)" -ge 1
+          git -C /tmp/arcade-history remote add destination "https://x-access-token:${GH_TOKEN}@github.com/abvhiael/420-arcade.git"
+          git -C /tmp/arcade-history push destination HEAD:refs/heads/migration/filtered-genesis-history
+          git clone https://github.com/abvhiael/MadBuds-Godot.git /tmp/godot-history
+          git -C /tmp/godot-history remote add destination "https://x-access-token:${GH_TOKEN}@github.com/abvhiael/420-arcade.git"
+          git -C /tmp/godot-history push destination HEAD:refs/heads/migration/madbuds-godot-history
