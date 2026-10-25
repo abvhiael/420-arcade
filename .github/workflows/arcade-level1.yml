@@ -8,6 +8,9 @@ on:
       - 'packages/arcade-*/**'
       - 'assets/arcade/**'
       - 'config/arcade*.json'
+      - 'docs/arcade/**'
+      - 'docs/migration/**'
+      - 'packages/mad-buds-kush-krusher/**'
   pull_request:
 permissions:
   contents: read
