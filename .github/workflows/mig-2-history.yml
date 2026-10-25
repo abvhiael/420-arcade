@@ -38,5 +38,6 @@ jobs:
           git -C /tmp/arcade-history remote add destination "https://x-access-token:${GH_TOKEN}@github.com/abvhiael/420-arcade.git"
           git -C /tmp/arcade-history push destination HEAD:refs/heads/migration/filtered-genesis-history
           git clone https://github.com/abvhiael/MadBuds-Godot.git /tmp/godot-history
+          git -C /tmp/godot-history filter-repo --force --path .github/workflows/ --invert-paths
           git -C /tmp/godot-history remote add destination "https://x-access-token:${GH_TOKEN}@github.com/abvhiael/420-arcade.git"
           git -C /tmp/godot-history push destination HEAD:refs/heads/migration/madbuds-godot-history
