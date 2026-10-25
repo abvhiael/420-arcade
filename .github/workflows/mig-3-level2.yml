@@ -1,0 +1,31 @@
+name: MIG-3 Arcade Ecosystem Level 2
+on:
+  push:
+    paths:
+      - '.github/workflows/mig-3-level2.yml'
+      - 'test/mig-3-level2.test.mjs'
+      - 'config/arcade-game-identities.json'
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  level2:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Checkout immutable canonical Gaming SDK source
+        uses: actions/checkout@v4
+        with:
+          repository: abvhiael/420-integrated-v0.1
+          ref: f4d26e6c35ec0c77ecd04b9d8f05d015e87cedb0
+          path: genesis-pinned
+          sparse-checkout: |
+            packages/420-gaming-sdk
+      - name: Validate pinned SDK identity and Arcade integration
+        env:
+          MIG3_SDK_PATH: ${{ github.workspace }}/genesis-pinned/packages/420-gaming-sdk/src/index.js
+        run: |
+          node --test test/mig-3-level2.test.mjs
