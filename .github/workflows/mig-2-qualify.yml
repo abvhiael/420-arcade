@@ -1,4 +1,5 @@
 name: MIG-2 Arcade Godot Level 1
+# Requalify imported Godot and Arcade assets on the current repository tree.
 on:
   push:
     paths: ['.github/workflows/mig-2-qualify.yml']
