@@ -1,0 +1,39 @@
+babda3859a10e77f3c362d97acd18f170ae2fda6 2026-10-23 22:08:46 -0600 abvhiael crowley Merge qualified Kush Krusher cannon loading and launch timing fix
+11b43b332581a16ed0742d5f47dbde2dcbb03613 2026-10-23 22:02:04 -0600 abvhiael crowley test: assert pre-flight cannon load and extended 6 FPS launch-to-flight transition
+0c66d6ecbb4505aa35143e04d1d43383349bb79c 2026-10-23 22:01:56 -0600 abvhiael crowley fix: sequence cannon loading before launch and extend takeoff animation
+74655be3fab36a7cef99e5d37845072a31a080ab 2026-10-23 22:01:53 -0600 abvhiael crowley fix: sequence cannon loading before launch and extend takeoff animation
+3e67d9de3921381d6a3a1bedbcfde5e443d2a278 2026-10-23 21:57:41 -0600 abvhiael crowley Merge MB-3 Kush Krusher Godot gameplay and Level 2 qualification
+089082c4b5ce71395284fac94fc7391f5a6b31b7 2026-10-23 21:55:41 -0600 abvhiael crowley ci(mb3): gate PR on Level 2 real-scene integration after scoped Level 1
+773cbd98e005cf4b45f246fe7e154dcd4d83424e 2026-10-23 21:55:35 -0600 abvhiael crowley test(mb3): add real-scene Level 2 launch, ability, destruction and turn integration
+dee22ab24004ed1f4e51a3c31979f76f3a56d109 2026-10-24 03:44:04 +0000 github-actions[bot] assets: import all 15 pinned Kush Krusher animations with verified PNG checksums
+d595c4b6d89fdb6dcf4160adcabedf62304c24fe 2026-10-23 21:43:11 -0600 abvhiael crowley fix: compare PNG signature to actual eight bytes while retaining SHA-256 validation
+e36f838ddaf49e120b82eb43c4880b84b5084ba5 2026-10-23 21:21:09 -0600 abvhiael crowley Avoid stale-head asset import push by reconciling latest PR branch
+ac12411c68dcf413dae187f541df6f4e13dfbf5f 2026-10-23 21:20:58 -0600 abvhiael crowley Godot test: support preserved source manifest schemas 05, 07, 11
+fd8f2b71835e66df393ca49ee0da91f166e6eebb 2026-10-23 21:20:49 -0600 abvhiael crowley Fix heterogeneous approved manifest parsing and preserve all 150 frame SHA256 checks
+9294b35a07959662d1f5115062416b27de5f66f8 2026-10-23 20:45:10 -0600 abvhiael crowley MB3 expose all 15 canonical Kush Krusher animation states
+ae5d886e2cc6bc2ff13b1e12e99fd62e6419660f 2026-10-23 20:44:55 -0600 abvhiael crowley MB3 require Godot texture loading and actual 10fps frame progression for all 150 verified frames
+0e8abb4bef6de6e2dc75e812e8544968c91de02a 2026-10-23 20:44:44 -0600 abvhiael crowley MB3 require imported animation asset qualification in focused CI
+99c9c0d4cf3e721b929fb230ccf44b32a66c3cc3 2026-10-23 20:44:17 -0600 abvhiael crowley MB3: finish bounded shot resolution, fallback animation, and headless tests
+ffe3ace6bfcfcee2fda849d31f373f2753bcc9d0 2026-10-23 20:44:15 -0600 abvhiael crowley MB3: finish bounded shot resolution, fallback animation, and headless tests
+29843a3c8a0e1131dd42624a96b5fdbd3b145ca7 2026-10-23 20:44:12 -0600 abvhiael crowley MB3: finish bounded shot resolution, fallback animation, and headless tests
+3cf593ed09377f3c52a113547e50be5344b73fe7 2026-10-23 20:44:01 -0600 abvhiael crowley Add exact-source full 15-set PNG import and checksum qualification workflow
+56b066d2ad2afc11afe33ce154cba9bec435f013 2026-10-23 20:40:31 -0600 abvhiael crowley MB3 ensure target completion follows authoritative break event
+72fb658ac00c67d7a6e8a7bdabd94eb931d38aae 2026-10-23 20:40:14 -0600 abvhiael crowley MB3 Godot: scene wiring and gameplay state integration
+aea08b7377d305b419339931228f2bbdce175894 2026-10-23 20:40:12 -0600 abvhiael crowley MB3 Godot: scene wiring and gameplay state integration
+4d8c40e272e79c2b7b6ccba3f58d6f8a79c8d63b 2026-10-23 20:40:10 -0600 abvhiael crowley MB3 Godot: scene wiring and gameplay state integration
+671c16071d23d541014d377d61bc536ff271fc7f 2026-10-23 20:39:51 -0600 abvhiael crowley MB3 wire state animations and damage events to cannon game
+36423f2e31b647fc2354e51eb11b401602b72abc 2026-10-23 20:39:42 -0600 abvhiael crowley MB3 connect physics collision signals to destructive event contract
+60eacd9b4985e808daaa8bee49b849595eae8628 2026-10-23 20:39:34 -0600 abvhiael crowley MB3 Godot: docs/MB3-GODOT-INTEGRATION.md
+56d6a59855aeab27ffebc44358d35f9d3302d0b1 2026-10-23 20:39:32 -0600 abvhiael crowley MB3 Godot: .github/workflows/godot-mb3-level1.yml
+b015204c099ce352449018752a3f206a5f686fd1 2026-10-23 20:39:29 -0600 abvhiael crowley MB3 Godot: tests/test_kush_contract.gd
+ccd52ee63174cb286b96fa77a45cd9301921f06b 2026-10-23 20:39:27 -0600 abvhiael crowley MB3 Godot: scripts/kush_animation.gd
+7f9f801ec11ca505f598c467c0c209915b107be1 2026-10-23 20:39:25 -0600 abvhiael crowley MB3 Godot: scripts/destructible.gd
+b0a09ee9fd1620a49efc8797ec7f60cb50659cd9 2026-10-23 20:21:25 -0600 abvhiael crowley fix(godot): dedent HUD refresh outside input match branches
+d34f5add75e104779d256b1294e01e2af7bae21e 2026-10-23 20:08:02 -0600 abvhiael crowley Godot foundation: docs/MIGRATION.md
+0a8d47b94f98d13a1c780d6c479e2a9610316583 2026-10-23 20:08:00 -0600 abvhiael crowley Godot foundation: scenes/main.tscn
+ab49b86ec50ecfcea6106ffc210ec54a9fe89e0e 2026-10-23 20:07:58 -0600 abvhiael crowley Godot foundation: scenes/characters/kush_krusher.tscn
+fe0943f2dad09a7350dd60d9a9ed6723e7f36bb8 2026-10-23 20:07:43 -0600 abvhiael crowley Godot foundation: scripts/main.gd
+3d02977c5676e0585da7d1bd677b4bb73fb13e1b 2026-10-23 20:07:41 -0600 abvhiael crowley Godot foundation: scripts/kush_krusher.gd
+8450e6eed12b7e2aa9205c45500579ffc8ec6542 2026-10-23 20:07:39 -0600 abvhiael crowley Godot foundation: project.godot
+8033560346238d35385541e0a61ef07ca7a6294d 2026-10-23 20:07:37 -0600 abvhiael crowley Godot foundation: .gitignore
+eae3ebdf488b1e9f1928968bd007b6a5b8e39b3a 2026-10-23 20:07:22 -0600 abvhiael crowley Initialize MadBuds Godot source repository

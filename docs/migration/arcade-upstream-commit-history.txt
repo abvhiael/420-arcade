@@ -1,0 +1,165 @@
+483255c8f7ad112ed4864de8a706f038d44de371 2026-10-23 21:47:18 -0600 abvhiael crowley Add files via upload
+38580188ef1d129862ecc090360ab510d995584b 2026-10-23 21:46:35 -0600 abvhiael crowley Create readme.md
+569c08f187d3d792a596ee0f74e28b5f52ce9754 2026-10-23 21:41:41 -0600 abvhiael crowley Add files via upload
+1d48fe1d509b5de7168b78e29ef2a6ce069396a3 2026-10-23 21:41:02 -0600 abvhiael crowley Create readme.md
+d949b80919f5b904d8e439c18c08695655b241f3 2026-10-23 21:16:06 -0600 abvhiael crowley Add files via upload
+8886bc7b20b112679f7e87ce981389f31ec021ed 2026-10-23 21:15:20 -0600 abvhiael crowley Create readme.md
+d539720de90a78523470b4c210a773ba18119e70 2026-10-23 20:33:25 -0600 abvhiael crowley Add files via upload
+e5f3cc7f5274e76bbeb510c1207acda9346b9544 2026-10-23 20:32:44 -0600 abvhiael crowley Create readme.md
+c3fabb3f9c80056e7379d4d248d5e74439494a8b 2026-10-23 20:32:15 -0600 abvhiael crowley Add files via upload
+feec1b6dc6d6fa3a281816c62562c15251f4771b 2026-10-23 19:41:00 -0600 abvhiael crowley Create readme.md
+ed6f9eb7a2628145bb9278eb4b9ec804a1064c58 2026-10-23 17:47:35 -0600 abvhiael crowley Add files via upload
+82b3aea367b47566eb27622e508e6fa05dd7970e 2026-10-23 17:46:19 -0600 abvhiael crowley Create readme.md
+abbb06149ac36edc25f3c0dd312180d464f1e21a 2026-10-23 16:15:08 -0600 abvhiael crowley fix(arcade): reconcile SS-06 manifest hashes with committed PNG bytes
+c49e8e3dde1e8dfbe8de2a76ebbba1d5681ace37 2026-10-23 16:15:06 -0600 abvhiael crowley fix(arcade): reconcile SS-05 manifest hashes with committed PNG bytes
+029cbdde7ef0b713a615c480357774f06f91e40a 2026-10-23 16:12:42 -0600 abvhiael crowley fix(arcade): reconcile Sativa Steve assets and add scoped Level 2 qualification
+e30f67830bcc088234e30d7c212d457287316a13 2026-10-23 15:09:25 -0600 abvhiael crowley Add files via upload
+e2bdc46b0e18db45db61475c8207bd85b2642843 2026-10-23 15:08:56 -0600 abvhiael crowley Create readme.md
+70b8bde07d19855a2887de424e33fc2fdd8bbd15 2026-10-23 14:58:52 -0600 abvhiael crowley Add files via upload
+90bcf6bbbaafa85428e95737de9980eba85c6f47 2026-10-23 14:57:02 -0600 abvhiael crowley Create readme.md
+592b475fc6a4532bfbd564a7799aef315cb0e6df 2026-10-23 14:52:02 -0600 abvhiael crowley Add files via upload
+be8aa0894abd6d8bf85d7ec4d65fe9e3c46b6998 2026-10-23 14:50:50 -0600 abvhiael crowley Create readme.md
+3270190a343461ad49ee0b3bc34e4984490f26f8 2026-10-23 14:42:48 -0600 abvhiael crowley Add files via upload
+2cd02f9176e329a71aa02b5e8d12e60f91a9c058 2026-10-23 14:42:21 -0600 abvhiael crowley Create readme.md
+7bca95127f259496bc4de3011749027c1787a295 2026-10-23 14:31:52 -0600 abvhiael crowley Add files via upload
+aed71786515ccd296b07a9745f2b894cdd11651d 2026-10-23 14:31:21 -0600 abvhiael crowley Create readme.md
+d6853d8a9c04231450824f8d4d5302f48ef30bc1 2026-10-23 13:20:49 -0600 abvhiael crowley Add files via upload
+83bf74931f42cc0c341956f089af367492681339 2026-10-23 13:20:13 -0600 abvhiael crowley Create readme..md
+1e7f3a94c9df483f7f8811c375fd7f28d931938b 2026-10-23 11:49:10 -0600 abvhiael crowley Add files via upload
+6947980ac32e1710a1afeda35edb7e380d4d8dcf 2026-10-23 11:48:24 -0600 abvhiael crowley Create README.MD
+f5685ecdd894a7e7d7547d3140d40c6a966f71e7 2026-10-23 11:01:44 -0600 abvhiael crowley Add files via upload
+b156673f5a1da336b31b537127ab58f0de1528fa 2026-10-23 11:01:15 -0600 abvhiael crowley Create readme.md
+df8ee5dce24958810db8fd3361d3c96b4b48df6c 2026-10-22 00:58:24 -0600 abvhiael crowley Add files via upload
+a787bf045ce44c8cca7d660cdb38929ab77b64b9 2026-10-22 00:57:50 -0600 abvhiael crowley Create readme.md
+842281f8ebe69cc8ad46c5efad01d1e4a31ebb9d 2026-10-21 23:59:47 -0600 abvhiael crowley Add files via upload
+cc000c60853ecbd465a4037d4581ca846e417f50 2026-10-21 23:59:14 -0600 abvhiael crowley Create readme.md
+41abb9c20ab2c739bfea7513a5fb62d4a6fa0fab 2026-10-21 23:32:58 -0600 abvhiael crowley Add files via upload
+5f70d61aa2043deb78ad908b1820bac4ec1ed52c 2026-10-21 23:32:19 -0600 abvhiael crowley Create readme.md
+a8d40eff26f464d4f32251a852edbffcf41a6d5d 2026-10-21 23:12:13 -0600 abvhiael crowley Reconcile Sativa Steve Phase D approved artwork and exact blob evidence (#770)
+4f78272fe9d9cfbe1c199d5a81ad9b0b9f71c5ca 2026-10-21 23:07:19 -0600 abvhiael crowley Add files via upload
+f2b0f92ca7058babc18188afe5bd673498535cbf 2026-10-21 23:06:35 -0600 abvhiael crowley Create readme.md
+053314a0280f5dbdd7f4fc683616fb81bc13ce84 2026-10-21 18:55:14 -0600 abvhiael crowley docs(arcade): preserve exact-SHA Kush Krusher animation Level 1 evidence
+dfcbd302729305268856ec2938d543826b9c2e5a 2026-10-21 18:53:49 -0600 abvhiael crowley feat(mad-buds): implement 15-state Kush Krusher gameplay animation controller
+cbf2b7b2c637c9e71d17250ffd62a8fa31a5bd1b 2026-10-21 18:49:18 -0600 abvhiael crowley merge(arcade): reconcile Phase F asset paths with main and preserve Level 1 evidence
+17b89a3779b73c67943796939ec3ad426ae808ee 2026-10-21 17:53:50 -0600 abvhiael crowley fix(arcade): reconcile existing uploaded KK-03 bytes from main into audit branch
+8ba2f3760e3ab4f18f4688d3c3740c7df830ef54 2026-10-21 17:48:08 -0600 abvhiael crowley fix(arcade): adopt uploaded KK-04 frames, canonicalize 10fps manifest and requalify
+fea984a4fb510b65c426597262cf6454bae5f250 2026-10-21 17:44:32 -0600 abvhiael crowley Add files via upload
+0ad644ce4d5eb15e9187d6ec632c3d0e535cf4cc 2026-10-21 17:43:57 -0600 abvhiael crowley Delete assets/arcade/mad-buds/kush-krusher/animations/kk_anim_04_compression_launch/kush_krusher_anim_04_compression_launch_frame_10.png
+19db8851e97192a212fc34356a32c7fdd89c73a7 2026-10-21 17:43:46 -0600 abvhiael crowley Delete assets/arcade/mad-buds/kush-krusher/animations/kk_anim_04_compression_launch/kush_krusher_anim_04_compression_launch_frame_09.png
+522d4bc9e7af983051a9425135809b62902c1fd3 2026-10-21 17:43:34 -0600 abvhiael crowley Delete assets/arcade/mad-buds/kush-krusher/animations/kk_anim_04_compression_launch/kush_krusher_anim_04_compression_launch_frame_08.png
+f6f55ddcbaa8f406f74946a6889fb5cd8c7b6e5f 2026-10-21 17:43:22 -0600 abvhiael crowley Delete assets/arcade/mad-buds/kush-krusher/animations/kk_anim_04_compression_launch/kush_krusher_anim_04_compression_launch_frame_07.png
+c705450f45711f9c7c55a032a05cfe6aba90c14d 2026-10-21 17:43:11 -0600 abvhiael crowley Delete assets/arcade/mad-buds/kush-krusher/animations/kk_anim_04_compression_launch/kush_krusher_anim_04_compression_launch_frame_06.png
+8a522adbc9601ed19d3697e392be9988f5cd4c4c 2026-10-21 17:43:01 -0600 abvhiael crowley Delete assets/arcade/mad-buds/kush-krusher/animations/kk_anim_04_compression_launch/kush_krusher_anim_04_compression_launch_frame_05.png
+49d70378d67d0d01d0bb10c80f38aa5aaed01a4d 2026-10-21 17:42:54 -0600 abvhiael crowley Delete assets/arcade/mad-buds/kush-krusher/animations/kk_anim_04_compression_launch/kush_krusher_anim_04_compression_launch_frame_04.png
+5a423a62d9c727b2d46f360d0c462793a0168a7e 2026-10-21 17:42:44 -0600 abvhiael crowley Delete assets/arcade/mad-buds/kush-krusher/animations/kk_anim_04_compression_launch/kush_krusher_anim_04_compression_launch.json
+d52dcf2edc640ec3f356af889d2f55c0554fdde1 2026-10-21 17:42:35 -0600 abvhiael crowley Delete assets/arcade/mad-buds/kush-krusher/animations/kk_anim_04_compression_launch/kush_krusher_anim_04_compression_launch_frame_03.png
+0a22d7b460025bd033304081c559fe957f15a2ac 2026-10-21 17:42:24 -0600 abvhiael crowley Delete assets/arcade/mad-buds/kush-krusher/animations/kk_anim_04_compression_launch/kush_krusher_anim_04_compression_launch_frame_02.png
+e0e85287751925f8943f6dbb1539ef364028405f 2026-10-21 17:42:13 -0600 abvhiael crowley Delete assets/arcade/mad-buds/kush-krusher/animations/kk_anim_04_compression_launch/kush_krusher_anim_04_compression_launch_frame_01.png
+d620461e9c0dd31491ba12d849fef9d2d4b6f408 2026-10-21 17:07:59 -0600 abvhiael crowley fix(arcade): record ten verified Compression Launch frame hashes and allow edge-touching sprite corners
+fcf06b77688eb5db2ffc7572924dded94396c4b9 2026-10-21 17:01:19 -0600 abvhiael crowley Add files via upload
+49a6c5ba32be5549767fdd9d28eeb98ff9657533 2026-10-21 16:25:24 -0600 abvhiael crowley fix(arcade): relocate Kush Krusher animation sets 08 09 and 13 without changing blobs
+8b765e13c7436d51f373dd203d5be54f2ced6718 2026-10-21 16:17:39 -0600 abvhiael crowley Add files via upload
+764b79ac686ea65a173d372e4d85137d6874ca50 2026-10-21 16:16:50 -0600 abvhiael crowley Create readme.md
+be575a634a3ad5ff8427cf2e22cd7e3281ad1488 2026-10-21 16:06:59 -0600 abvhiael crowley Add files via upload
+ad0f1d4bd485d5100edc7a31d5f86f1b1acdbb1f 2026-10-21 16:06:26 -0600 abvhiael crowley Create readme.md
+8ffec0de3ae4c19bdf0891143b1693a0269e0253 2026-10-21 14:21:40 -0600 abvhiael crowley Add files via upload
+c0d2d4178d251b91638f83004fa95f5b0e21b34a 2026-10-21 14:21:01 -0600 abvhiael crowley Create readme.md
+7611bde50a6f5d06ad427004d6239f27323b39fc 2026-10-21 14:10:25 -0600 abvhiael crowley Add files via upload
+df8b1d1a09f751a0b8e19cd4239cdd0388a30acd 2026-10-21 14:09:51 -0600 abvhiael crowley Create readme.md
+639e5f4aadf116ee2e6d655addd7fa1a1d10ebfa 2026-10-21 13:51:19 -0600 abvhiael crowley Add files via upload
+73f9e95d4a0cec7f675caf9f2933ab2b7b7e9fec 2026-10-21 13:50:07 -0600 abvhiael crowley Create readme.md
+9f592795da9badbedf42b96589a7d831c1ab90c7 2026-10-21 13:32:45 -0600 abvhiael crowley Add files via upload
+510e0bb0b1d4a2b8f9747cdce58103445bac5117 2026-10-21 13:32:07 -0600 abvhiael crowley Create readme.md
+76daaace97eb5208e9088264a6110c3dc481129b 2026-10-21 12:46:29 -0600 abvhiael crowley Add files via upload
+d09b47e10906c19e9cb05ef310f18415324ccbe4 2026-10-21 12:45:56 -0600 abvhiael crowley Create readme.md
+622398ef97e061e47617dd556fade674e7d272fe 2026-10-21 12:22:04 -0600 abvhiael crowley Add files via upload
+3e6bcf26bf5d4921e557d6b0658db81a93b2be8d 2026-10-21 12:21:11 -0600 abvhiael crowley Create readme.md
+d9d832aefb76657051f1d6d24ac9c92b0495d906 2026-10-21 11:53:51 -0600 abvhiael crowley Add files via upload
+50128023831f46f105e2f589bc545d553d0f7cf7 2026-10-21 11:53:12 -0600 abvhiael crowley Create readme.md
+58e5a1051cdbb3935f7c3a8b8fe38af153cc75b7 2026-10-21 11:23:18 -0600 abvhiael crowley Add files via upload
+5027fb87b88f02a14f016636112a99bbacb14a1e 2026-10-21 11:22:34 -0600 abvhiael crowley Create readme.md
+399a5c1e5bfba035f003a2eca5c9e1d085ac5560 2026-10-21 10:07:04 -0600 abvhiael crowley Add files via upload
+5d27c7904d8b50e02ae1c1ef5d1e0382884921b8 2026-10-21 10:06:25 -0600 abvhiael crowley Create readme.md
+3d69ac0129fa3ce1131aeb16561b707ac5388827 2026-10-21 09:46:45 -0600 abvhiael crowley Add files via upload
+47130970b596fabb6477ff3dd4e2c370fec1c92d 2026-10-21 09:41:40 -0600 abvhiael crowley Create readme.md
+a22047c87ce338fff2c374ade0b622d52faecb03 2026-10-19 22:38:31 -0600 abvhiael crowley Create readme.md
+34fe2adaa3f3c170d17f347576aa49b2deace648 2026-10-19 19:13:58 -0600 abvhiael crowley Add files via upload
+80db45ba0d80340b3b2e77695db980272398fbd0 2026-10-19 19:11:14 -0600 abvhiael crowley Create readme.md
+4616d9dec1d119c37e46ed49123e150e0163c992 2026-10-19 16:55:01 -0600 abvhiael crowley Add files via upload
+d98f3c3ae9b0686d751602563d675497be0f3ec7 2026-10-19 16:06:37 -0600 abvhiael crowley Rename assets/arcade/mad-buds/kush-krusher/kush_krusher_anim_01_idle_annoyed_frame_01.png to assets/arcade/mad-buds/kush-krusher/animations/kk_anim_01_idle_annoyed/kush_krusher_anim_01_idle_annoyed_frame_01.png
+a1301c36118b9717daa3c8544bf9800e4c435a24 2026-10-19 16:05:52 -0600 abvhiael crowley Add files via upload
+e6b5855792e799fd6a77053e344d8f11047511b0 2026-10-19 15:56:03 -0600 abvhiael crowley Delete assets/arcade/mad-buds/kush-krusher/kush_krusher_anim_01_idle_annoyed_frame_01.png
+f5c5cb849e21969a0feb6b4f2bbd2eef7e66173f 2026-10-19 15:55:30 -0600 abvhiael crowley Add files via upload
+a2c23e740dbab5482acceac6852f6207f30575d3 2026-10-19 13:21:38 -0600 abvhiael crowley Add files via upload
+31fd3a0f19b183c307c05d52b2f57c6ecd868fc2 2026-10-19 13:15:11 -0600 abvhiael crowley Add files via upload
+710e3f7b60dd75af4cbefc27d699be988b6b7400 2026-10-19 13:07:43 -0600 abvhiael crowley Add files via upload
+d546db8f435658460d9edc3c1b55786aa8a318ef 2026-10-19 13:07:07 -0600 abvhiael crowley Rename assets/arcade/mad-buds/kush-krusher/kush_krusher_emote_04_laughing.png to assets/arcade/mad-buds/kush-krusher/illustrations/expressions/kush_krusher_emote_04_laughing.png
+8c6cb7d38c6c69dac7bb3699eaea3ccbb047bab5 2026-10-19 13:06:13 -0600 abvhiael crowley Add files via upload
+3d513d71078ac0be6fdc89236c8663089fe2858c 2026-10-19 12:58:19 -0600 abvhiael crowley Add files via upload
+75f58936ec1f1b87474a804fdf7aaa19fedbf4a4 2026-10-19 12:57:57 -0600 abvhiael crowley Rename assets/kush-krusher.png to assets/arcade/mad-buds/kush-krusher/source/kush-krusher.png
+712cfef30e2aaecad67e51590563688bc08590fd 2026-10-19 10:53:02 -0600 abvhiael crowley ARC-1.12: preserve durable exact-SHA Level 1 runtime qualification certificate
+802a99d2496be61bea242380adb08652f1b68dd0 2026-10-19 10:33:17 -0600 abvhiael crowley ARC-1.12: establish retained Arcade runtime qualification inventory and CI owner
+211dda7bbc5011276a6a422d74958c90d50b9a43 2026-10-19 09:21:08 -0600 abvhiael crowley ARC-1.11: preserve exact-SHA scoped Level 1 evidence and release boundaries
+8e35dc997bb884f9f7c59ee62ab8311e28c1eb77 2026-10-19 09:19:08 -0600 abvhiael crowley ARC-1.11: distinguish invalid hash syntax from valid but mismatched asset digest
+54f7f8d24f6aa1730d02ef9b6247b4d41ce210b4 2026-10-19 09:18:53 -0600 abvhiael crowley ARC-1.11: add integrity-pinned isolated asset loader, bounded cache and React recovery boundary
+fd1852373661093391d8eb99a28599aaaa458a78 2026-10-19 08:54:29 -0600 abvhiael crowley ARC-1.10: preserve exact-SHA Level 1 qualification evidence
+b4fa1306c2cc12dede9b45ff48b27f361ac5e8b5 2026-10-19 08:53:02 -0600 abvhiael crowley ARC-1.10: universal lifecycle coordinator, restart and accessible settings controls
+dafe8b4edf9c243e725a2da9ad999dddf0a7ddce 2026-10-19 00:27:53 -0600 abvhiael crowley Arcade: record exact-SHA authority infrastructure qualification and unresolved live gates
+b2747c195035cbac51610fd871733be9befc6cb0 2026-10-19 00:25:51 -0600 abvhiael crowley Arcade: implement server challenge replay ledger and gated verified ranking infrastructure
+8b79628763c37db29a04ea98e12ae66a92d516c5 2026-10-19 00:12:59 -0600 abvhiael crowley ARC-1.9: preserve durable exact-SHA Level 1 qualification evidence
+eb6d4789e36555005439baccff8290c4ec09d1b0 2026-10-19 00:10:39 -0600 abvhiael crowley ARC-1.9: implement canonical session score achievement event contracts and adversarial qualification
+0d83a742250b6bda47cc4f77ed651204af4dd13e 2026-10-19 00:04:28 -0600 abvhiael crowley ARC-1.8: record exact-SHA scoped Level 1 qualification
+99471b20d31d73d1e3cc0dc869b32d3fae1396d9 2026-10-19 00:01:49 -0600 abvhiael crowley ARC-1.8: add versioned local guest save store with checksum, revisions and migrations
+2540c40e8f03009368ca98772edbabfa532978ff 2026-10-18 23:45:41 -0600 abvhiael crowley ARC-1.7: record durable exact-SHA Level 1 audio accessibility qualification
+8efadc3bf24fcc4857e3facc81b01e3342ad2220 2026-10-18 23:44:27 -0600 abvhiael crowley ARC-1.7: document audio boundaries and acceptance tests
+6f5cbdf418a98c627983725c592152042a8f72fc 2026-10-18 23:43:57 -0600 abvhiael crowley ARC-1.7: validate accessible audio controls in React route
+0731e332393ce31d388ec6ca3a7350b99ae019c5 2026-10-18 23:43:44 -0600 abvhiael crowley ARC-1.7: responsive audio controls and visible focus styles
+c566fbc1bb5d8721810cab2e0f070a17903042ee 2026-10-18 23:43:33 -0600 abvhiael crowley ARC-1.7: use colocated module declaration instead of ambient relative module
+e5bfe2131dc9c6371282497f868d7ff6d481cad0 2026-10-18 23:43:13 -0600 abvhiael crowley ARC-1.7: declare typed audio adapter boundary
+42fa9fd82d42941cb7583852c121205bcebcdf02 2026-10-18 23:43:03 -0600 abvhiael crowley ARC-1.7: integrate audio settings in Accessibility route
+e82382cc9cd7314e7d668757fc9fe6b2db122081 2026-10-18 23:42:53 -0600 abvhiael crowley ARC-1.7: add accessible opt-in audio settings panel
+d9ff52ff77378f1366b37e276badd47b505512e8 2026-10-18 23:37:32 -0600 abvhiael crowley ARC-1.6: record durable exact-SHA Level 1 qualification certificate
+77ea6ee0983e629ae12a3bc6e649ea4eba6990b7 2026-10-18 23:34:53 -0600 abvhiael crowley ARC-1.6: implement keyboard touch gamepad input abstraction and scoped adversarial tests
+243c488506b764a2edeaa7e0da162c6dcd5e19b5 2026-10-18 23:31:05 -0600 abvhiael crowley ARC-1.5: preserve successful exact-SHA Level 1 qualification certificate
+b58a7477603bac9b28d7e9e1c8717c7a16f8f7a0 2026-10-18 23:29:53 -0600 abvhiael crowley ARC-1.5: await adversarial async mount rejections deterministically
+aae47d001e86f7fa531973541c5867a1247ea494 2026-10-18 23:29:39 -0600 abvhiael crowley ARC-1.5: implement scoped React casual lifecycle adapter and React root bridge
+0bdfd45f3a1aedf756eed629165cdc915329bd43 2026-10-18 23:25:32 -0600 abvhiael crowley ARC-1.4: preserve durable exact-SHA qualification certificate
+587654f41b0da00d5f7edab40bfa17f3a4e4e490 2026-10-18 23:22:28 -0600 abvhiael crowley ARC-1.4: implement scoped Phaser adapter, lifecycle state machine and adversarial tests
+78be5d75f785b4e592d543d276362a82246a607b 2026-10-18 23:18:57 -0600 abvhiael crowley ARC-1.3: record durable exact-SHA Level 1 catalog qualification
+6d836e7b52a67bc0794fe8770ba69667e6f3920b 2026-10-18 23:13:18 -0600 abvhiael crowley ARC-1.3: add searchable canonical catalog, categories and fail-closed game launcher
+04ca897238d93395e3577d6f6ed061f3c6d1d5c8 2026-10-18 21:51:09 -0600 abvhiael crowley ARC-1.2: record durable exact-SHA Level 1 success and failure triage
+0f8199c7d4d6433cc91b6218f0e23c5856d2bc0c 2026-10-18 21:50:12 -0600 abvhiael crowley ARC-1.2: retain qualified ARC-1.1 no-games status announcement
+5baf4f5fe7f857c12b1f9ce146488ce666b842a1 2026-10-18 21:49:29 -0600 abvhiael crowley ARC-1.2: implement responsive accessible launcher navigation and scoped tests
+5fa4a2cf50b06fcefd2c2f57e347c9d4ea79845d 2026-10-18 21:41:46 -0600 abvhiael crowley ARC-1.1: certify final exact-SHA scoped React/TypeScript build qualification
+5674ee143574939c8f70457a58c022e1e422178d 2026-10-18 21:40:46 -0600 abvhiael crowley ARC-1.1: remove superseded dependency-free preview implementation
+4903d43ce02f3ce4e342def45b591281f6cd377f 2026-10-18 21:40:44 -0600 abvhiael crowley ARC-1.1: remove superseded dependency-free preview implementation
+f066e8a61a6703d0e2403e988353528c7be2a393 2026-10-18 21:39:40 -0600 abvhiael crowley ARC-1.1: correct SSR HTML entity assertion and suppress unrelated Vite dependency scan
+9cffcc069448715fe80800f3684e6332dbbd0a6e 2026-10-18 21:39:38 -0600 abvhiael crowley ARC-1.1: correct SSR HTML entity assertion and suppress unrelated Vite dependency scan
+7fedd1bc97fca7d5e805b756879c9a3a6502e950 2026-10-18 21:38:47 -0600 abvhiael crowley ARC-1.1: correct SSR fixture canonical manifest path
+da9f5cabcac6cb51209492d7ba754b27d0e52a9f 2026-10-18 21:38:34 -0600 abvhiael crowley ARC-1.1: finalize pinned React TypeScript app, SSR tests and npm ci qualification
+23865fe79d3b160ef0c072db8c75ba9408192a7a 2026-10-18 21:37:17 -0600 abvhiael crowley ARC-1.1: commit npm-resolved exact dependency lockfile
+b60cbefa5d13bdb0bd8d47f1336ea7abfda35d6b 2026-10-18 21:35:47 -0600 abvhiael crowley ARC-1.1: implement React TypeScript Vite launcher and actual type/build qualification
+786b5b1ec3111f2323581f4ca47595a49ef95c58 2026-10-18 21:34:34 -0600 abvhiael crowley ARC-1.1: correct lint file inventory
+999012d6a7be5e00af40aace42568ad54d917e53 2026-10-18 21:33:26 -0600 abvhiael crowley ARC-1.1: correct repository-relative fixture and manifest paths
+2292bf998d94c630eeb081ed57aed15757ff1d5a 2026-10-18 21:33:24 -0600 abvhiael crowley ARC-1.1: correct repository-relative fixture and manifest paths
+e5e7f9c4c28117fbf4cfad933c6a5a9046c1119a 2026-10-18 21:33:04 -0600 abvhiael crowley ARC-1.1: add runnable Arcade browser bootstrap and scoped build qualification
+0b20535f906ee21e68a315ce3e3bc7d0131c5c75 2026-10-18 21:08:42 -0600 abvhiael crowley ARC-0.7: preserve exact-SHA successful Level 1 freeze certificate
+19108ab12d8cd9bc2c625bedb1566f1f28a9d61e 2026-10-18 21:07:34 -0600 abvhiael crowley ARC-0.7: freeze docs/arcade/ARC-0.7-SCOPE-ACCEPTANCE-FREEZE.md
+508e7c6252b04b60f8360ea8060dab385a8525a5 2026-10-18 21:01:22 -0600 abvhiael crowley ARC-0.6: retain exact-SHA successful Level 1 and failed intermediate evidence
+3271722d8754212a5f29d1dd23d9a97dedf19a4a 2026-10-18 20:58:11 -0600 abvhiael crowley ARC-0.6: define docs/arcade/ARC-0.6-PROJECT-STRUCTURE-MODULE-BOUNDARIES.md
+1b1fbb03bc95bd6c154b07661b2ed25c54bbe48f 2026-10-18 20:48:26 -0600 abvhiael crowley ARC-0.5: record durable exact-SHA Level 1 PASS and acceptance boundaries
+15db3895d2cc13663c4afb360c1d085f2acece6f 2026-10-18 20:47:04 -0600 abvhiael crowley ARC-0.5: establish docs/arcade/ARC-0.5-PLATFORM-ACCESSIBILITY-OFFLINE-REQUIREMENTS.md
+dc325958a6bfbea3d98430aa0bd3d1f14429e83a 2026-10-18 20:33:51 -0600 abvhiael crowley ARC-0.4: record final successful exact-SHA Level 1 and reconciliation certificate
+a24248f733d8da672ffc1715f72cc49bc81f4dcc 2026-10-18 20:31:25 -0600 abvhiael crowley ARC-0.4: reconcile frozen GP runtime namespace inventory and acceptance boundaries
+b9ce16635af8bb4c883744f4b81c2f1211c2dd09 2026-10-18 19:39:54 -0600 abvhiael crowley ARC-0.4: preserve exact-SHA scoped Level 1 successful evidence
+99926fbb8b7ead2ff2dfd14a9feda2bd6479ce73 2026-10-18 19:38:53 -0600 abvhiael crowley ARC-0.4: add docs/arcade/ARC-0.4-CANONICAL-GAME-IDENTITIES.md
+5caa358d1a4215fff62cfa6b9c8e683c851afc63 2026-10-18 16:23:37 -0600 abvhiael crowley docs(arcade): preserve exact-SHA approved Genesis catalog Level 1 qualification
+f0b5a12c22f523554db408494959e778454c66a3 2026-10-18 16:21:05 -0600 abvhiael crowley docs(arcade): record explicitly authorized ARC-0.3 catalog decision and amendment scope
+b4b22f98f0683f086556671c449b5c46bd54f8f0 2026-10-18 16:02:12 -0600 abvhiael crowley docs(arcade): preserve ARC-0.3 scoped exact-SHA PASS and Genesis authorization blocker
+5fac3f07b50ee33954d87550e1a762b21b19e2b2 2026-10-18 16:01:16 -0600 abvhiael crowley docs(arcade): explicitly deny amendment authority in ARC-0.3 proposal
+de29f345c15caac1227f5de2c04025432a69b138 2026-10-18 15:59:53 -0600 abvhiael crowley docs(arcade): prepare ARC-0.3 Genesis authorization reconciliation without modifying freeze
+10e4783c99c5ae3f0dced23c1f9fdc0fc0e7d3eb 2026-10-18 14:10:12 -0600 abvhiael crowley docs(arcade): preserve exact-SHA ARC-0.2 Level 1 architecture qualification
+9af076fe18e86bd4e88a920032ef9c23245e2e37 2026-10-18 14:05:38 -0600 abvhiael crowley docs(arcade): make wallet-free core gameplay boundary explicit for ARC-0.2
+e9a33a2edba853fa4738c4aa2b17525e0ed5be41 2026-10-18 13:29:39 -0600 abvhiael crowley docs(arcade): establish ARC-0.2 complete architecture and authority decisions
+0c05db1ab31ac86239a1045682bd6a5051dddd85 2026-10-18 13:26:56 -0600 abvhiael crowley docs(arcade): preserve ARC-0.1 exact-SHA Level 1 PASS evidence
+7bd9068df0326a57abfe313c6c3a601cffef174e 2026-10-17 23:10:41 -0600 abvhiael crowley docs(arcade): record ARC-0.1 canonical repository and Mad Bud asset gap audit
