@@ -23,10 +23,11 @@ jobs:
       - name: Import independent Arcade code
         run: |
           git clone --depth 1 https://github.com/abvhiael/420-integrated-v0.1.git /tmp/genesis
-          mkdir -p apps packages scripts
+          mkdir -p apps packages scripts config
           cp -a /tmp/genesis/apps/arcade-web apps/
           for item in /tmp/genesis/packages/arcade-*; do cp -a "$item" packages/; done
           cp -a /tmp/genesis/scripts/arcade scripts/
+          cp -a /tmp/genesis/config/arcade*.json config/
       - name: Validate Godot imports and scenes
         run: |
           curl -fL --retry 3 -o /tmp/godot.zip https://github.com/godotengine/godot/releases/download/4.4.1-stable/Godot_v4.4.1-stable_linux.x86_64.zip
@@ -47,5 +48,5 @@ jobs:
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add apps packages scripts
+          git add apps packages scripts config
           git diff --cached --quiet || (git commit -m 'MIG-2 Arcade: independent web and Godot qualification' && git push)
