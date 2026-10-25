@@ -1,0 +1,50 @@
+name: MIG-2 Arcade Godot Level 1
+on:
+  push:
+    paths: ['.github/workflows/mig-2-qualify.yml']
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  arcade-godot:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Verify canonical art and Godot foundation
+        run: |
+          test -f godot/project.godot
+          test "$(find godot -name '*.png' | wc -l)" -ge 100
+          test -f godot/tests/test_animation_assets.gd
+          test -f godot/tests/test_kush_contract.gd
+      - name: Import independent Arcade code
+        run: |
+          git clone --depth 1 https://github.com/abvhiael/420-integrated-v0.1.git /tmp/genesis
+          mkdir -p apps packages scripts
+          cp -a /tmp/genesis/apps/arcade-web apps/
+          for item in /tmp/genesis/packages/arcade-*; do cp -a "$item" packages/; done
+          cp -a /tmp/genesis/scripts/arcade scripts/
+      - name: Validate Godot imports and scenes
+        run: |
+          curl -fL --retry 3 -o /tmp/godot.zip https://github.com/godotengine/godot/releases/download/4.4.1-stable/Godot_v4.4.1-stable_linux.x86_64.zip
+          unzip -q /tmp/godot.zip -d /tmp
+          chmod +x /tmp/Godot_v4.4.1-stable_linux.x86_64
+          /tmp/Godot_v4.4.1-stable_linux.x86_64 --headless --path godot --editor --quit
+          /tmp/Godot_v4.4.1-stable_linux.x86_64 --headless --path godot --script res://tests/test_animation_assets.gd
+          /tmp/Godot_v4.4.1-stable_linux.x86_64 --headless --path godot --script res://tests/test_kush_contract.gd
+          /tmp/Godot_v4.4.1-stable_linux.x86_64 --headless --path godot --script res://tests/test_mb3_level2.gd
+      - name: Validate independent Arcade web
+        working-directory: apps/arcade-web
+        run: |
+          npm ci
+          npm run typecheck
+          npm run build
+          npm test
+      - name: Publish only after valid qualification
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add apps packages scripts
+          git diff --cached --quiet || (git commit -m 'MIG-2 Arcade: independent web and Godot qualification' && git push)
