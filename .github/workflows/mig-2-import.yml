@@ -1,0 +1,32 @@
+name: MIG-2 Arcade and Godot Import
+on:
+  push:
+    paths: ['.github/workflows/mig-2-import.yml']
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch source repositories
+        run: |
+          git clone --depth 1 https://github.com/abvhiael/420-integrated-v0.1.git /tmp/genesis
+          git clone --depth 1 https://github.com/abvhiael/MadBuds-Godot.git /tmp/madbuds
+      - name: Transfer exact arcade assets and Godot project
+        run: |
+          mkdir -p assets godot
+          cp -a /tmp/genesis/assets/arcade assets/
+          tar -C /tmp/madbuds --exclude=.git --exclude=.github -cf - . | tar -C godot -xf -
+          printf 'Genesis: %s\nMadBuds-Godot: %s\n' "$(git -C /tmp/genesis rev-parse HEAD)" "$(git -C /tmp/madbuds rev-parse HEAD)" > MIG-2-UPSTREAM.txt
+          test -f godot/project.godot
+          test -f godot/tests/test_mb3_level2.gd
+          test "$(find godot -type f | wc -l)" -ge 180
+          test "$(find assets/arcade -type f | wc -l)" -ge 400
+      - name: Commit source and original PNG assets
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets/arcade godot MIG-2-UPSTREAM.txt
+          git diff --cached --quiet || (git commit -m 'MIG-2: import Arcade art and canonical MadBuds Godot project' && git push)
