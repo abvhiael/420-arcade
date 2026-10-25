@@ -1,0 +1,29 @@
+name: MIG-2 Arcade Godot Inventory Completion
+on:
+  push:
+    paths: ['.github/workflows/mig-2-complete-inventory.yml']
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  reconcile:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Import omitted original files and provenance
+        run: |
+          git clone https://github.com/abvhiael/420-integrated-v0.1.git /tmp/genesis
+          git clone --depth 1 https://github.com/abvhiael/MadBuds-Godot.git /tmp/madbuds
+          git -C /tmp/madbuds fetch --unshallow
+          mkdir -p docs/migration packages godot/.github
+          cp -a /tmp/genesis/docs/arcade docs/
+          cp -a /tmp/genesis/packages/mad-buds-kush-krusher packages/
+          cp -a /tmp/madbuds/.github/workflows godot/.github/
+          git -C /tmp/genesis log --date=iso --pretty=format:'%H %ad %an %s' -- assets/arcade apps/arcade-web docs/arcade packages/arcade-assets packages/arcade-core > docs/migration/arcade-upstream-commit-history.txt
+          git -C /tmp/madbuds log --date=iso --pretty=format:'%H %ad %an %s' --all > docs/migration/madbuds-godot-upstream-commit-history.txt
+          git add docs/arcade docs/migration packages/mad-buds-kush-krusher godot/.github
+      - name: Commit exact upstream copies
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git diff --cached --quiet || (git commit -m 'MIG-2: include canonical documentation and source provenance' && git pull --rebase origin main && git push)
